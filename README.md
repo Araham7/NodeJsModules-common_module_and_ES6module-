@@ -1,0 +1,2 @@
+# NodeJsModules-common_module_and_ES6module-
+NodeJsModules(common_module_and_ES6module)
